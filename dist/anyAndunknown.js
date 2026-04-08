@@ -1,0 +1,14 @@
+"use strict";
+//Any
+// let value : any = "hello";
+// value = 10;
+// value =true;
+// console.log(value)
+Object.defineProperty(exports, "__esModule", { value: true });
+// console.log(value.toUpperCase())
+//unknown
+// let value :unknown = "hy";
+// if(typeof value === "string"){
+//     console.log(value.toUpperCase())
+// }
+//# sourceMappingURL=anyAndunknown.js.map
