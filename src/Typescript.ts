@@ -253,10 +253,129 @@
 
 //function type
 
-function greet(name:string, cb:(value:string)=>void){
+// function greet(name:string, cb:(value:string)=>void){
 
-}
+// }
 
-greet("Harsh", (value:string)=>{
-    console.log(value)
-})
+// greet("Harsh", (value:string)=>{
+//     console.log(value)
+// })
+
+
+// function abcd(name:string , cb:(arg:string)=>void){
+
+// }
+
+// abcd("harsh" , (arg:string)=>{
+//     console.log("abcd")
+// })
+
+//optional and default parameters
+ 
+// function optionalParameter(name:String , age:number , gender?:string = "not to be disclosed"){
+
+//     console.log(name , age , gender)
+
+// }
+
+// optionalParameter("manu", 23 , "M")
+
+
+//Rest Paramaeter and spread
+
+// function friends(...args :string[]){
+
+//     console.log(args)
+
+// }
+
+// friends("abhi", "manu" ,"bablu")
+
+ 
+//function overloadings
+
+// function abcd(a:string):void
+// function abcd(a:string , b:number):number;
+
+// function abcd(a:any , b?:any){
+//     if(typeof a === "string" && b === undefined){
+//         console.log("hey")
+//     }
+
+//     if(typeof a === "string" && typeof b === "number"){
+//         return 123;
+//     }
+
+//     else throw new Error ("something is wrong")
+// }
+
+// abcd("hey");
+// abcd("hey" , 12);
+
+//generic functions
+
+// function add<T>(value:T){
+
+// }
+
+// add<number>(33)
+// add<string>("23")
+
+
+//interface Generic
+
+// interface Halua<T>{
+//     name:string;
+//     age:number;
+//     key:T;
+// }
+
+// function abcd(obj:Halua<string>){
+
+// }
+
+// abcd({name:"foo" , age:25 ,key:"ahcns"})
+
+
+
+// interface Halua<T ,H>{
+//     name:string;
+//     age:number;
+//     key:T;
+//     value:H
+// }
+
+// function abcd(obj:Halua<string , number>){
+
+// }
+
+// abcd({name:"foo" , age:25 ,key:"ahcns" , value:23})
+
+//generic classes
+
+// class BottleMaker<T>{
+//     constructor(public key:T){
+
+//     }
+// }
+
+// let b1 = new BottleMaker<String>("hey")
+// let b2 = new BottleMaker<number>(23)
+
+// "hey"-->stringliteral
+
+
+//modules
+// export function hello(value:String){
+
+// }
+
+//TypeAssertion , typecasting 
+
+// let a = Number("12");
+// console.log(typeof a)
+
+//non-null assertion operation
+// a!-> eske value na hi null hogi na hi undefined
+
+// type Guards
