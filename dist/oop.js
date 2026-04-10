@@ -1,8 +1,7 @@
-"use strict";
 // class Chai {
 //     flavour:String;
 //     price:number
-Object.defineProperty(exports, "__esModule", { value: true });
+export {};
 //     constructor (flavour:String , price:number){
 //         this.flavour = flavour
 //         this.price = price

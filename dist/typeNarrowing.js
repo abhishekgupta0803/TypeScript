@@ -1,9 +1,7 @@
-"use strict";
 // function getChai(Kind : Number | String){
 //     if(typeof Kind === "string"){
 //         return `Making ${Kind} chai ..`;
 //     }
-Object.defineProperty(exports, "__esModule", { value: true });
 function redirectBasedOnRole(role) {
     if (role === "admin") {
         console.log("Redirect to admiin dashboard");
@@ -15,4 +13,5 @@ function redirectBasedOnRole(role) {
     }
     role;
 }
+export {};
 //# sourceMappingURL=typeNarrowing.js.map

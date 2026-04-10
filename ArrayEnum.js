@@ -6,4 +6,5 @@ const rating = [4.5, 5.0];
 console.log(rating);
 console.log(ChaiPrice);
 console.log(ChaiFlavours);
+
 //# sourceMappingURL=ArrayEnum.js.map

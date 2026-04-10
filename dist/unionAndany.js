@@ -1,8 +1,6 @@
-"use strict";
 // let apirequest :"Pending" | "error" | "success" = "success";
 // apirequest = "error";
 // console.log(apirequest)
-Object.defineProperty(exports, "__esModule", { value: true });
 // let a : Number | String;
 // a = "Abhishek"
 // console.log(a);
@@ -15,4 +13,5 @@ for (let order of orders) {
     }
 }
 console.log(currOrder);
+export {};
 //# sourceMappingURL=unionAndany.js.map

@@ -1,7 +1,10 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-function wrapInArray(item) {
-    return [item];
-}
-console.log(wrapInArray("masala"), wrapInArray(42), wrapInArray({ flavour: "Ginger" }));
+//basic generics
+// function wrapInArray<T>(item: T):T[]{
+//     return [item]
+// }
+const res = {
+    status: 200,
+    data: { flavour: "masala" }
+};
+export {};
 //# sourceMappingURL=generics.js.map

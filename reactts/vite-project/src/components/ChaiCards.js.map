@@ -1,1 +1,1 @@
-{"version":3,"file":"ChaiCards.js","sourceRoot":"","sources":["ChaiCards.tsx"],"names":[],"mappings":";AAAA,MAAM,UAAU,QAAQ,CAAE,EAAC,IAAI,EAAG,KAAK,EAAG,SAAS,GAAG,KAAK,EAAC;IACxD,OAAM,CACF,8BACK,IAAI,EACH,SAAS,IAAI,kCAAiB,EAC/B,uBAAK,KAAK,GAAM,IACX,CACb,CAAA;AACL,CAAC"}
+{"version":3,"file":"ChaiCards.js","sourceRoot":"","sources":["ChaiCards.tsx"],"names":[],"mappings":";AAQA,MAAM,UAAU,QAAQ,CAAE,EAAC,IAAI,EAAG,KAAK,EAAG,SAAS,GAAG,KAAK,EAAc;IACrE,OAAM,CACF,8BACK,IAAI,EACH,SAAS,IAAI,kCAAiB,EAC/B,uBAAK,KAAK,GAAM,IACX,CACb,CAAA;AACL,CAAC"}

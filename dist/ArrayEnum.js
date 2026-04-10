@@ -1,8 +1,7 @@
-"use strict";
 //Arrays Syntx
 // const ChaiFlavours: String[] = ["Masala" , "Adrak"]
 // const ChaiPrice: Number[] = [10,20, 30 ,40]
-Object.defineProperty(exports, "__esModule", { value: true });
+export {};
 // const rating:Array<Number> = [4.5,5.0]
 // console.log(rating)
 // console.log(ChaiPrice)

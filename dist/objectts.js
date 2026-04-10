@@ -1,10 +1,9 @@
-"use strict";
 // let tea:{
 //     name:String;
 //     price:number;
 //     isHot:boolean
 // }
-Object.defineProperty(exports, "__esModule", { value: true });
+export {};
 // tea = {
 //     name :"Ginger Tea",
 //     price:25,

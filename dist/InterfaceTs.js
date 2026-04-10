@@ -1,10 +1,8 @@
-"use strict";
 // type ChaiOrder ={
 //     type:String;
 //     sugar:number;
 //     strong:boolean;
 // };
-Object.defineProperty(exports, "__esModule", { value: true });
 const cup = {
     teaLeaves: 2,
     masala: 1
@@ -15,4 +13,5 @@ const cfg = {
     appName: "Masterji",
     version: 1
 };
+export {};
 //# sourceMappingURL=InterfaceTs.js.map

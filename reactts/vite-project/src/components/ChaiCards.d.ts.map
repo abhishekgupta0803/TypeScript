@@ -1,1 +1,1 @@
-{"version":3,"file":"ChaiCards.d.ts","sourceRoot":"","sources":["ChaiCards.tsx"],"names":[],"mappings":"AAAA,wBAAgB,QAAQ,CAAE,EAAC,IAAI,EAAG,KAAK,EAAG,SAAiB,EAAC;;;;CAAA,2CAQ3D"}
+{"version":3,"file":"ChaiCards.d.ts","sourceRoot":"","sources":["ChaiCards.tsx"],"names":[],"mappings":"AAAA,UAAU,YAAY;IAClB,IAAI,EAAC,MAAM,CAAC;IACZ,KAAK,EAAC,MAAM,CAAC;IACb,SAAS,CAAC,EAAE,OAAO,CAAA;CAEtB;AAGD,wBAAgB,QAAQ,CAAE,EAAC,IAAI,EAAG,KAAK,EAAG,SAAiB,EAAC,EAAC,YAAY,2CAQxE"}
