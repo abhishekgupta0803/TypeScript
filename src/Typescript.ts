@@ -42,8 +42,8 @@
 
 // //type inference vs any
 
-// let infrence = 10
-// // infrence = "hello"
+// let infrence = 10;
+// infrence = "hello";
 
 
 
@@ -379,3 +379,4 @@
 // a!-> eske value na hi null hogi na hi undefined
 
 // type Guards
+//instanceof
